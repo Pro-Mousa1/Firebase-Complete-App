@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66722049786",
+    "project_id": "afternoon-firebase-app-23907",
+    "storage_bucket": "afternoon-firebase-app-23907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66722049786:android:f83ed21ad0ec06209de343",
+        "android_client_info": {
+          "package_name": "com.example.afternoonfirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66722049786-jgnftvob0kj0hm6bd6sboaqsdkedjv8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwA9OeUpR78p93BdcUtJXmrChmv06iK_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66722049786-jgnftvob0kj0hm6bd6sboaqsdkedjv8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
